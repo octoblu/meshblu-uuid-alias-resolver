@@ -1,6 +1,6 @@
 {
-  "name": "uuid-alias-resolver",
-  "version": "1.0.0",
+  "name": "meshblu-uuid-alias-resolver",
+  "version": "1.0.1",
   "description": "UUID Alias Resolver",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octoblu/uuid-alias-resolver.git"
+    "url": "git+https://github.com/octoblu/meshblu-uuid-alias-resolver.git"
   },
   "author": "Octoblu <npm@octoblu.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/octoblu/uuid-alias-resolver/issues"
+    "url": "https://github.com/octoblu/meshblu-uuid-alias-resolver/issues"
   },
-  "homepage": "https://github.com/octoblu/uuid-alias-resolver#readme",
+  "homepage": "https://github.com/octoblu/meshblu-uuid-alias-resolver#readme",
   "dependencies": {
     "async": "^1.5.2",
     "lodash": "^4.6.1",
