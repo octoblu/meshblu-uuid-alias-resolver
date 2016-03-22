@@ -1,6 +1,6 @@
 {
   "name": "meshblu-uuid-alias-resolver",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "UUID Alias Resolver",
   "main": "index.js",
   "scripts": {
