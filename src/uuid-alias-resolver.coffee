@@ -53,7 +53,7 @@ class UUIDAliasResolver
   _getAliasOrCache: (alias, callback) =>
     @_getCache alias, (error, result) =>
       return callback error if error?
-      return callback null, result.uuid if result?
+      return callback null, result.uuid if result?.uuid?
 
       @_getAlias alias, (error, uuid) =>
         return callback error if error?
